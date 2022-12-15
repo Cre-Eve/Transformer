@@ -91,3 +91,4 @@ display(widgets.VBox([
     if det is None:
         robot.forward(0)
 ```
+<img src= "https://user-images.githubusercontent.com/64821752/207931416-5a71f861-f52f-4408-b46a-7c642937667e.png" width="600" height="540"/>
